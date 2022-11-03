@@ -6,4 +6,4 @@ Faster refresh rate.
 
 More images and modes.
 
-Replaced all imgur links with base64 encoded images (Being worked on)
+Replaced all imgur links with another option that wont shutdown in the future (Being worked on)
