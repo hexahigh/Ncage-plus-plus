@@ -25,6 +25,9 @@ function saveImageOptions() {
         case "Mogus":
             imgLib = Mogus;
             break;
+        case "Herremann":
+            imglib = Herreimg;
+            break
         case "censored":
             imgLib = "censored";
             break;
