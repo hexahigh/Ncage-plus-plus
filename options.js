@@ -27,7 +27,7 @@ function saveImageOptions() {
             break;
         case "Herremann":
             imglib = Herreimg;
-            break
+            break;
         case "censored":
             imgLib = "censored";
             break;
