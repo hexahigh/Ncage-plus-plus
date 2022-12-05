@@ -1,11 +1,11 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-    "name": "nCage+",
+    "name": "nCage++",
     "options_page": "options.html",
     "permissions": ["storage", "alarms"],
     "description": "Prank your friends and co-workers with this extension that will replace their webpage images while they browse the internet!",
-    "version": "1.0.4",
+    "version": "0.4",
     "manifest_version": 3,
     "background": {
         "service_worker": "incrementImageReplace.js"
@@ -20,6 +20,9 @@
                 "ncageImages.js",
                 "rubberDuckImages.js",
                 "animeGirlImages.js",
+                "Mogus.js",
+                "AjaxImages.js",
+                "Herreimg.js",
                 "imageReplacer.js"
             ],
             "run_at": "document_end"
