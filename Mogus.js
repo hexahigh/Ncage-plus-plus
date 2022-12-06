@@ -1,3 +1,3 @@
 var Mogus = [
-"https://i.imgur.com/eRg93m7.png"
+"img/amogus/eRg93m7.png"
 ];
