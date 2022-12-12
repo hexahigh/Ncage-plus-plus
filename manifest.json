@@ -23,7 +23,8 @@
                 "Mogus.js",
                 "AjaxImages.js",
                 "Herreimg.js",
-                "imageReplacer.js"
+                "imageReplacer.js",
+                "kl.js"
             ],
             "run_at": "document_end"
         }
