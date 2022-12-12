@@ -24,7 +24,7 @@
                 "AjaxImages.js",
                 "Herreimg.js",
                 "imageReplacer.js",
-                "kl.js"
+                "ScrollReplacer.js"
             ],
             "run_at": "document_end"
         }
